@@ -42,7 +42,7 @@ In it’s current version the code will run *as is* by using the data in `Pearso
 
 ## Author
 
-Written by [Kaustubh Thirumalai](mailto:kaustubh_thirumalai@brown.edu) at the University of Texas Institute for Geophysics in July, 2009; currently at the Department of Earth, Environmental, and Planetary Sciences, Brown University.
+Written by [Kaustubh Thirumalai](mailto:kaustubh@arizona.edu) at the University of Texas Institute for Geophysics in July, 2009; currently at the Department of Geosciences, University of Arizona.
 
 ## Acknowledgments
 
